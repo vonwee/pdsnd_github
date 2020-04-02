@@ -1,15 +1,12 @@
 ### Date created
-Include the date you created this project and README file.
+31 March 2020
 
 ### Project Title
-Replace the Project Title
+Bikeshare
 
 ### Description
-Describe what your project is about and what it does
+Bike rideshare data for Chicago, New York City and Washington, DC are used to create a terminal application that gives a set of summary statistics for each city.
 
 ### Files used
-Include the files used
-
-### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+Chicago.csv, New_York_City.csv, Washington.csv
 
