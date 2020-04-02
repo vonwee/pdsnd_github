@@ -43,7 +43,15 @@ def get_filters():
 
     while True:
         day = input("\n>>> Which day of the week are you interested in? Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday or all?\n").lower()
-        if day not in ('monday', 'tuesday', 'wednesday', 'thursday', 'friday', 'saturday', 'sunday','all'):
+        if month not in (
+            'january',
+            'february',
+            'march',
+            'april',
+            'may',
+            'june',
+            'all',
+            ):
             print("That is not a valid day of the week, please try again")
             continue
         else:
