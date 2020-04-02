@@ -2,7 +2,7 @@
 31 March 2020
 
 ### Project Title
-Bikeshare
+Exploring US Bikeshare Data
 
 ### Description
 Bike rideshare data for Chicago, New York City and Washington, DC are used to create a terminal application that gives a set of summary statistics for each city.
