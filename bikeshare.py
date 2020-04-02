@@ -242,7 +242,10 @@ def main():
             i += 5
             
         
-        restart = input('\nWould you like to restart? Enter yes or no.\n')
+        restart = \
+            input('''
+Would you like to restart? Enter yes or no.
+''')
         if restart.lower() != 'yes':
             break
 
